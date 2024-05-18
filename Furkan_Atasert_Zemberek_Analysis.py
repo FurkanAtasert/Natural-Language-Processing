@@ -6,7 +6,7 @@ from zemberek import (
     TurkishMorphology,
     TurkishSentenceExtractor,
 )
-## İşlemlerden önce " pip install zemberek-python " ile kütüphaneyi importlayınız.
+## İşlemlerden önce " pip install zemberek-python setuptools " ile kütüphaneyi importlayınız.
 ## Programı Çalıştırmak için python Furkan_Atasert_Zemberek_Analysis.py kısayolunu kullanabilirsiniz.
 
 
